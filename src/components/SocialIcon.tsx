@@ -1,3 +1,5 @@
+"use client"
+
 import { Github, Twitter, Linkedin, Mail, Globe } from 'lucide-react'
 import type { Social } from '@/types'
 

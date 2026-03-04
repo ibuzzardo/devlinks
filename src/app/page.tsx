@@ -1,3 +1,5 @@
+"use client"
+
 import { Hero } from '@/components/Hero'
 import { LinkCard } from '@/components/LinkCard'
 import { SocialIcon } from '@/components/SocialIcon'
